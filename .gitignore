@@ -1,0 +1,11 @@
+# Default ignored files
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/
+target/
+/automation-test/automation-test.iml
+automation-test/key/
+automation-test/report/
+eleks.iml
+automation-test/ci/gitCommand
+/be-automation-test/be-automation-test.iml
+/be-automation-test-core/be-automation-test-core.iml
