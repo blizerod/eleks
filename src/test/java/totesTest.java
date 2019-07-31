@@ -1,6 +1,10 @@
 import org.testng.annotations.Test;
 
-@Test
+
 public class totesTest {
 
+    @Test
+    public void generateTest(){
+
+    }
 }
