@@ -12,4 +12,8 @@ public class WitchMain {
             System.out.println();
         }
     }
+
+    public static void print(String s1, String s2){
+        System.out.println(s1 + " ___ " + s2);
+    }
 }

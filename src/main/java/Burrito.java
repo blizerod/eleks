@@ -1,4 +1,4 @@
-public class Burrito {
+public class Burrito extends Object {
     private final Spiciness degree;
 
     private Burrito(Spiciness degree) {
@@ -12,7 +12,18 @@ public class Burrito {
                 '}';
     }
 
+    @Override
+    public boolean equals(Object obj) {
+        return super.equals(obj);
+    }
+
     public static void main(String[] args) {
         System.out.println(new Burrito(Spiciness.NOT));
     }
 }
+
+
+
+
+
+
