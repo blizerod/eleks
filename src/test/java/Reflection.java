@@ -1,4 +1,5 @@
 import java.lang.reflect.Method;
+import java.sql.SQLOutput;
 
 public class Reflection {
 
@@ -15,7 +16,7 @@ public class Reflection {
             System.out.println(method.getParameterTypes());
         }
 
-
+        System.out.println("String from rule branch");
     }
 
 
