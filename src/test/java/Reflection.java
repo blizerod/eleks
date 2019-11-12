@@ -21,6 +21,8 @@ public class Reflection {
         System.out.println("String from rule branch");
 
         System.out.println("Dev branch");
+
+        System.out.println("second dev commit");
     }
 
 
