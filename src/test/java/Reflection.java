@@ -19,6 +19,8 @@ public class Reflection {
         System.out.println("String from rule branch");
         System.out.println("new String");
 
+        System.out.println("Third commit");
+
     }
 
 
