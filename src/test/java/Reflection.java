@@ -15,6 +15,7 @@ public class Reflection {
             System.out.println(method.getParameterTypes());
         }
 
+        System.out.println("new String");
 
     }
 
